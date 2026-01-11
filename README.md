@@ -35,7 +35,14 @@ Recipe AI is a full-stack web application that generates creative vegetarian rec
 
 ## Screenshots
 
+### Home Screen
+![Home Screen](images/home.png)
 
+### Generated Recipe
+![Generated Recipe](images/generated_recipe.png)
+
+### Generated Image
+![Generated Recipe](images/generated_image.png)
 
 ---
 ## AI Integration Status
